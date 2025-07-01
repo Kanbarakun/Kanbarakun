@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **What should i deeply learn as an IT student to qualify in the current market?**
 
-- 👨‍💻 All of my projects are available at [(will try to work on this)]((will try to work on this))
+- 👨‍💻 All of my projects are available at [(will try to work on this)]
 
-- 📝 I regularly write articles on [(will try to work on this)]((will try to work on this))
+- 📝 I regularly write articles on [(will try to work on this)]
 
 - 💬 Ask me about **anything about my current status as an 1st year IT student.**
 
 - 📫 How to reach me **kanbaragaming@yahoo.com**
 
-- 📄 Know about my experiences [Currently no, job experience but have an experience on making a game, website and etc.](Currently no, job experience but have an experience on making a game, website and etc.)
+- 📄 Know about my experiences [Currently no, job experience but have an experience on making a game, website and etc.]
 
 - ⚡ Fun fact **Im currently doing Vibe Coding as i learn and build project at the same time. (I know its bad but our school don't teach that much.)**
 
